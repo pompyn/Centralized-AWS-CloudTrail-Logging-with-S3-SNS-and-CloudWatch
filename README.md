@@ -45,46 +45,46 @@ This project reinforced best practices in cloud security logging, automation of 
 
 ### CloudTrail Trail Configuration
 
-![Trail Details](https://github.com/pompyn/Centralized-AWS-CloudTrail-Logging-with-S3-SNS-and-CloudWatch/raw/main/assets/detailed-view-management-events-trail.png)
+![Trail Details](https://github.com/pompyn/Centralized-AWS-CloudTrail-Logging-with-S3-SNS-and-CloudWatch/raw/main/Assets/detailed-view-management-events-trail.png)
 
 ---
 
 ### S3 Bucket for Log Storage
 
-![S3 Bucket](./assets/s3-bucket-cloudtrail-logs.png)
+![S3 Bucket](./Assets/s3-bucket-cloudtrail-logs.png)
 
 ---
 
 ### SNS Subscription Confirmation
 
-![SNS Subscription](./assets/amazon-sns-subscription.png)
+![SNS Subscription](./Assets/amazon-sns-subscription.png)
 
 ---
 
 ### CloudWatch Logs Group
 
-![Log Group](./assets/aws-cloudtrail-logs.png)
+![Log Group](./Assets/aws-cloudtrail-logs.png)
 
 ---
 
 ### CloudWatch Alarm Email Notification
 
-![Alarm Email](./assets/aws-alarm-event_counter.png)
+![Alarm Email](./Assets/aws-alarm-event_counter.png)
 
 ---
 
 ### Alarm Status Dashboard
 
-![Alarm Status](./assets/aws-event-alarm-status.png)
+![Alarm Status](./Assets/aws-event-alarm-status.png)
 
 ---
 
 ### Alarm Event Graph
 
-![Event Counter Graph](./assets/aws-alarm-event-counter-graph.png)
+![Event Counter Graph](./Assets/aws-alarm-event-counter-graph.png)
 
 ---
 
 ### Alarm Configuration Details
 
-![Alarm Details](./assets/aws-alarm-event-counter-details.png)
+![Alarm Details](./Assets/aws-alarm-event-counter-details.png)
