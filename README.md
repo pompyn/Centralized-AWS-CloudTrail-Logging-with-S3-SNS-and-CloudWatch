@@ -43,48 +43,29 @@ IAM role details
 Takeaway:
 This project reinforced best practices in cloud security logging, automation of alerting, and managing permissions for log delivery. It showcases the ability to build audit-friendly infrastructure and demonstrates a foundational understanding of AWS monitoring tools.
 
-### CloudTrail Trail Configuration
+### CloudTrail Management Events
+![CloudTrail Management Events](https://github.com/pompyn/Centralized-AWS-CloudTrail-Logging-with-S3-SNS-and-CloudWatch/raw/main/Assets/cloudtrail-management-events.png)
 
-![Trail Details](https://github.com/pompyn/Centralized-AWS-CloudTrail-Logging-with-S3-SNS-and-CloudWatch/raw/main/Assets/detailed-view-management-events-trail.png)
+### Detailed View of Management Events Trail
+![Detailed View](https://github.com/pompyn/Centralized-AWS-CloudTrail-Logging-with-S3-SNS-and-CloudWatch/raw/main/Assets/detailed-view-management-events-trail.png)
 
----
-
-### S3 Bucket for Log Storage
-
-![S3 Bucket](./Assets/s3-bucket-cloudtrail-logs.png)
-
----
+### S3 CloudTrail Bucket Overview
+![S3 Bucket Overview](https://github.com/pompyn/Centralized-AWS-CloudTrail-Logging-with-S3-SNS-and-CloudWatch/raw/main/Assets/s3-cloudtrail-bucket-overview.png)
 
 ### SNS Subscription Confirmation
+![SNS Subscription](https://github.com/pompyn/Centralized-AWS-CloudTrail-Logging-with-S3-SNS-and-CloudWatch/raw/main/Assets/sns-subscription-confirmation-cloudtrail-logs.png)
 
-![SNS Subscription](./Assets/amazon-sns-subscription.png)
+### CloudWatch Log Group for CloudTrail Logs
+![CloudWatch Logs](https://github.com/pompyn/Centralized-AWS-CloudTrail-Logging-with-S3-SNS-and-CloudWatch/raw/main/Assets/cloudwatch-log-group-cloudtrail-logs.png)
 
----
+### AWS Alarm Event Counter
+![Event Counter](https://github.com/pompyn/Centralized-AWS-CloudTrail-Logging-with-S3-SNS-and-CloudWatch/raw/main/Assets/aws-alarm-event_counter.png)
 
-### CloudWatch Logs Group
+### AWS Alarm Event Counter Details
+![Event Counter Details](https://github.com/pompyn/Centralized-AWS-CloudTrail-Logging-with-S3-SNS-and-CloudWatch/raw/main/Assets/aws-alarm-event-counter-details.png)
 
-![Log Group](./Assets/aws-cloudtrail-logs.png)
+### AWS Alarm Event Counter Graph
+![Alarm Graph](https://github.com/pompyn/Centralized-AWS-CloudTrail-Logging-with-S3-SNS-and-CloudWatch/raw/main/Assets/aws-alarm-event-counter-graph.png)
 
----
-
-### CloudWatch Alarm Email Notification
-
-![Alarm Email](./Assets/aws-alarm-event_counter.png)
-
----
-
-### Alarm Status Dashboard
-
-![Alarm Status](./Assets/aws-event-alarm-status.png)
-
----
-
-### Alarm Event Graph
-
-![Event Counter Graph](./Assets/aws-alarm-event-counter-graph.png)
-
----
-
-### Alarm Configuration Details
-
-![Alarm Details](./Assets/aws-alarm-event-counter-details.png)
+### AWS Event Alarm Status
+![Alarm Status](https://github.com/pompyn/Centralized-AWS-CloudTrail-Logging-with-S3-SNS-and-CloudWatch/raw/main/Assets/aws-event-alarm-status.png)
