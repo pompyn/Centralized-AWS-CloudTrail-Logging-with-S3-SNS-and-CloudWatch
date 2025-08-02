@@ -45,7 +45,7 @@ This project reinforced best practices in cloud security logging, automation of 
 
 ### CloudTrail Trail Configuration
 
-![Trail Details](./assets/detailed-view-management-events-trail.png)
+![Trail Details](https://github.com/pompyn/Centralized-AWS-CloudTrail-Logging-with-S3-SNS-and-CloudWatch/raw/main/assets/detailed-view-management-events-trail.png)
 
 ---
 
